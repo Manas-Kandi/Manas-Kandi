@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Manas 👋
 
-<!--
-**Manas-Kandi/Manas-Kandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UX & Human Factors Researcher** exploring the intersection of design, research, and AI-native development.
 
-Here are some ideas to get you started:
+I spend my days understanding how people interact with complex systems—from public safety tools to emerging AI workflows. I'm currently exploring **vibe coding** and building with AI agents to prototype faster and think bigger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Into
+
+🔬 **Research & Design** – User research, interaction design, and translating insights into products that people actually want to use. 3+ years at Motorola Solutions working with 1,000+ public-safety users.
+
+🤖 **AI-Native Development** – Experimenting with agentic workflows, prompt strategies, and how AI can augment design thinking. I use Claude, Windsurf, and Claude Code to iterate on ideas rapidly.
+
+⚙️ **Vibe Coding** – Building prototypes that feel right before optimizing the details. Less rigid planning, more exploratory iteration with AI agents as thinking partners.
+
+
+## My Toolkit
+
+- **Design & Prototyping** – Figma, Axure, Adobe XD
+- **AI-Assisted Development** – Claude Code, Cursor, Windsurf, ChatGPT
+- **Code** – React, TypeScript, Python, TensorFlow.js
+- **Research** – Mixed methods, task analysis, usability testing, telemetry analysis
+- **Accessibility** – WCAG 2.2 AA compliance, inclusive design practices
+
+## Let's Connect
+
+- 📧 **Email** – manaskandimalla2002@gmail.com
+- 💼 **LinkedIn** – [manas-kandimalla-08690813b](https://www.linkedin.com/in/manas-kandimalla-08690813b)
+- 🎨 **Design Portfolio** – Check my projects for prototypes and case studies
+- 📱 **Phone** – +1-217-721-7429
+
+---
+
+*Interested in UX research, AI-native design, or just want to chat about building better experiences? Always open to conversations.*
