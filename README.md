@@ -25,8 +25,7 @@ I spend my days understanding how people interact with complex systems—from pu
 
 - 📧 **Email** – manaskandimalla2002@gmail.com
 - 💼 **LinkedIn** – [manas-kandimalla-08690813b](https://www.linkedin.com/in/manas-kandimalla-08690813b)
-- 🎨 **Design Portfolio** – Check my projects for prototypes and case studies
-- 📱 **Phone** – +1-217-721-7429
+- 🎨 **Design Portfolio** – https://manaskandimalla20023.myportfolio.com/
 
 ---
 
