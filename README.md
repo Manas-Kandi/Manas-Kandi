@@ -15,9 +15,9 @@ I spend my days understanding how people interact with complex systems—from pu
 
 ## My Toolkit
 
-- **Design & Prototyping** – Figma, Axure, Adobe XD
-- **AI-Assisted Development** – Claude Code, Cursor, Windsurf, ChatGPT
-- **Code** – React, TypeScript, Python, TensorFlow.js
+- **Design & Prototyping** – Figma, Axure, Adobe XD, Sketch
+- **AI-Assisted Development** – Claude Code, Cursor, Windsurf, ChatGPT Codex
+- **Code** – React, TypeScript, Python, TensorFlow.js (Vibes Only)
 - **Research** – Mixed methods, task analysis, usability testing, telemetry analysis
 - **Accessibility** – WCAG 2.2 AA compliance, inclusive design practices
 
