@@ -6,7 +6,7 @@ I spend my days understanding how people interact with complex systems—from pu
 
 ## What I'm Into
 
-🔬 **Research & Design** – User research, interaction design, and translating insights into products that people actually want to use. 3+ years at Motorola Solutions working with 1,000+ public-safety users.
+🔬 **Research & Design** – User research, interaction design, and translating insights into products that people actually want to use. 3+ years at Motorola Solutions.
 
 🤖 **AI-Native Development** – Experimenting with agentic workflows, prompt strategies, and how AI can augment design thinking. I use Claude, Windsurf, and Claude Code to iterate on ideas rapidly.
 
